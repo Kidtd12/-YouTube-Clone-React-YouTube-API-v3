@@ -1,12 +1,20 @@
-# React + Vite
+🎥 YouTube Clone (React + YouTube API v3)
+This is a fully responsive YouTube Clone built using React and integrated with the YouTube Data API v3. It replicates key features of the real YouTube interface, allowing users to search, watch, and browse videos seamlessly.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔧 Features
 
-Currently, two official plugins are available:
+🎬 Video Playback – Play any selected video with dynamic video detail rendering
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📋 Recommended Videos – View a sidebar of related or trending videos
 
-## Expanding the ESLint configuration
+📱 Responsive Design – Optimized layout for both desktop and mobile devices
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+🛠️ Tech Stack
+Frontend: React.js, CSS
+
+API: YouTube Data API v3
+
+Routing: React Router
+
+Deployment: GitHub Pages
