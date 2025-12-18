@@ -1,5 +1,4 @@
 🎥 YouTube Clone (React + YouTube API v3)
-🎥 YouTube Clone (React + YouTube API v3)
 
 This is a fully responsive YouTube Clone built using React and integrated with the YouTube Data API v3. It replicates key features of the real YouTube interface, allowing users to search, watch, and browse videos seamlessly.
 
